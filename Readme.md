@@ -1,3 +1,3 @@
 Git Curse
 
-Teste de edição
+Teste de edição 2.0
