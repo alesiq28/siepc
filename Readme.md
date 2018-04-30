@@ -6,3 +6,5 @@ Teste de edição 2.
 teste1
 
 teste 2
+
+Teste 3
